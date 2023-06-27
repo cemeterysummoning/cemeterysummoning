@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cemeterysummoning
-- Currently working on: implementing quantum algorithms, creating generative art, learning web dev and machine learning
+- Currently working on: implementing quantum algorithms, creating generative art, learning web dev
 
 <!---
 cemeterysummoning/cemeterysummoning is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
